@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  SQL> Troubleshooting (Delete error), (DELETE, TRUNCATE, DROP의 차이)
+title:  DATABASE> Troubleshooting (Delete error), (DELETE, TRUNCATE, DROP의 차이)
 categories: 01_database
 tag: [database, TRANSACTION, LOG, DROP, DELETE, TRUNCATE]
 toc: true
